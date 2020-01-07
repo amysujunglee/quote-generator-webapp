@@ -1,0 +1,61 @@
+[
+  {
+    "quote": "quote1",
+    "author": "aut1",
+    "category": ["Digital Marketing", "UX"]
+  },
+  {
+    "quote": "quote2",
+    "author": "aut2",
+    "year": 1983,
+    "category": ["Digital Marketing", "UX"]
+  },
+  {
+    "quote": "quote3",
+    "author": "aut3",
+    "year": 1987,
+    "category": ["Digital Marketing", "UX"]
+  },
+  {
+    "quote": "quote4",
+    "author": "aut4",
+    "year": 1990,
+    "category": ["Digital Marketing", "UX"]
+  },
+  {
+    "quote": "quote5",
+    "author": "aut5",
+    "year": 1991,
+    "category": ["Digital Marketing", "UX"]
+  },
+  {
+    "quote": "quote6",
+    "author": "aut6",
+    "year": 2000,
+    "category": ["Design", "UX"]
+  },
+  {
+    "quote": "quote7",
+    "author": "aut7",
+    "year": 2005,
+    "category": "Design"
+  },
+  {
+    "quote": "quote8",
+    "author": "aut8",
+    "year": 2008,
+    "category": "Technology"
+  },
+  {
+    "quote": "quote9",
+    "author": "aut9",
+    "year": 2010,
+    "category": ["Social Media", "Digital Marketing"]
+  },
+  {
+    "quote": "quote10",
+    "author": "aut10",
+    "year": 2018,
+    "category": ""
+  }
+]
