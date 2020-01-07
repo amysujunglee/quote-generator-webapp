@@ -6,10 +6,11 @@ $(document).ready(function() {
       // just display in console
       console.log(data);
       // display in html
-      $(data).each(function(i, quote) {
-        // 'i' is index
-        $("#quoteList").append($("<li>").append(quote.quote));
+      var quoteList = "";
+      $.each(data, function(key, quote) {
+        quoteList += "<li>" + quote.quote + "</li>";
       });
+      $("#quote-list").append(quoteList);
     });
   });
 });
