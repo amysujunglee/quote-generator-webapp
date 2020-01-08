@@ -1,16 +1,17 @@
 $(document).ready(function() {
-  // when the user click the 'search' button
   $("#btn-search").click(function() {
-    // call the ajax here
     $.getJSON("quotes.json", function(data) {
-      // just display in console
-      console.log(data);
-      // display in html
-      var quoteList = "";
-      $.each(data, function(key, quote) {
-        quoteList += "<li>" + quote.quote + "</li>";
-      });
-      $("#quote-list").append(quoteList);
+      var response = data;
+      var output = "";
+
+      for (key in response) {
+        // console.log(response[key].quote);
+        output +=
+          "<li>" + response[key].quote + " - " + response[key].author + "</li>";
+      }
+
+      var quoteList = document.getElementById("quote-list");
+      quoteList.innerHTML = output;
     });
   });
 });

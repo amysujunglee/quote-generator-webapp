@@ -1,20 +1,21 @@
 [
   {
-    "quote": "quote1",
-    "author": "aut1",
-    "category": ["Digital Marketing", "UX"]
+    "quote": "There is no such thing as digital marketing. There is marketing - most of which happens to be digital.",
+    "year": "",
+    "author": "Brad Jakeman, the former president at PepsiCo",
+    "category": ["Digital Marketing", "Digital", "Marketing"]
   },
   {
-    "quote": "quote2",
-    "author": "aut2",
-    "year": 1983,
-    "category": ["Digital Marketing", "UX"]
+    "quote": "You don’t need a digital strategy, you need a business strategy for the digital age.",
+    "author": "Judy Goldberg, ex Sony Pictures",
+    "year": "",
+    "category": ["Digital Marketing", "Business", "Digital"]
   },
   {
-    "quote": "quote3",
-    "author": "aut3",
+    "quote": "Digital marketing is no longer about merely adding online channels to the media mix; it is about integrating digital into all facets of marketing.",
+    "author": "Adam Bird, Senior Partner at McKinsey&Company",
     "year": 1987,
-    "category": ["Digital Marketing", "UX"]
+    "category": ["Digital Marketing", "Digital", "Marketing"]
   },
   {
     "quote": "quote4",
