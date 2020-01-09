@@ -14,49 +14,49 @@
   {
     "quote": "Digital marketing is no longer about merely adding online channels to the media mix; it is about integrating digital into all facets of marketing.",
     "author": "Adam Bird, Senior Partner at McKinsey&Company",
-    "year": 1987,
+    "year": "",
     "category": ["Digital Marketing", "Digital", "Marketing"]
   },
   {
-    "quote": "quote4",
-    "author": "aut4",
-    "year": 1990,
-    "category": ["Digital Marketing", "UX"]
+    "quote": "People ignore design that ignores people.",
+    "author": "Frank Chimero, Designer",
+    "year": "",
+    "category": ["People", "Design", "UX"]
   },
   {
-    "quote": "quote5",
-    "author": "aut5",
-    "year": 1991,
-    "category": ["Digital Marketing", "UX"]
-  },
-  {
-    "quote": "quote6",
-    "author": "aut6",
-    "year": 2000,
+    "quote": "Design creates culture. Culture shapes values. Values determine the future.",
+    "author": "Robert L. Peters, Graphic Designer",
+    "year": "",
     "category": ["Design", "UX"]
   },
   {
-    "quote": "quote7",
-    "author": "aut7",
-    "year": 2005,
-    "category": "Design"
+    "quote": "If we want users to like our software, we should design it to behave like a likeable person: respectful, generous and helpful.",
+    "author": "Alan Cooper, Software Designer and Programmer",
+    "year": "",
+    "category": ["Design", "UX", "People"]
   },
   {
-    "quote": "quote8",
-    "author": "aut8",
-    "year": 2008,
-    "category": "Technology"
+    "quote": "If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes.",
+    "author": "Albert Einstein, Theoretical Physicist",
+    "year": "",
+    "category": ["Design", "UX", "Life"]
   },
   {
-    "quote": "quote9",
-    "author": "aut9",
-    "year": 2010,
-    "category": ["Social Media", "Digital Marketing"]
+    "quote": "Good content isn’t about good storytelling. It’s about telling a true story well.",
+    "author": "Ann Handley",
+    "year": "",
+    "category": ["Content", "Marketing"]
   },
   {
-    "quote": "quote10",
-    "author": "aut10",
-    "year": 2018,
-    "category": ""
+    "quote": "Content is fire, social media is gasoline.",
+    "author": "Jay Baer",
+    "year": "",
+    "category": ["Social Media", "Digital Marketing", "Content"]
+  },
+  {
+    "quote": "The best marketing doesn’t feel like marketing.",
+    "author": "Tom Fishburne",
+    "year": "",
+    "category": ["Content", "Marketing"]
   }
 ]

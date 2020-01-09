@@ -1,17 +1,17 @@
 $(document).ready(function() {
   $("#btn-search").click(function() {
     $.getJSON("quotes.json", function(data) {
-      var response = data;
-      var output = "";
+      var quotes = data;
+      var quoteOutput = "";
 
-      for (key in response) {
+      for (key in quotes) {
         // console.log(response[key].quote);
-        output +=
-          "<li>" + response[key].quote + " - " + response[key].author + "</li>";
-      }
-
-      var quoteList = document.getElementById("quote-list");
-      quoteList.innerHTML = output;
+        if (quotes.hasOwnProperty(key)) {
+          quoteOutput += "<p>" + quotes[key].quote + "</p>" + "<hr />";
+        } // hasOwnProperty check
+      } // for each object
+      var quoteList = document.getElementById("quote-box");
+      quoteList.innerHTML = quoteOutput;
     });
   });
 });
