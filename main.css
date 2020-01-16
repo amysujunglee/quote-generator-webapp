@@ -1,11 +1,15 @@
 .search-keyword {
-    width: 50%;
-    position: relative;
-    margin: 0 auto;
-    
+  width: 50%;
+  position: relative;
+  margin: 0 auto;
 }
 
 .keyword-field {
-    font-size: 14px;
+  font-size: 14px;
 }
-
+.column-box {
+  background-color: #ddd;
+}
+.quote-border {
+  border: 1px solid #999;
+}

@@ -58,5 +58,23 @@
     "author": "Tom Fishburne",
     "year": "",
     "category": ["Content", "Marketing"]
+  },
+  {
+    "quote": "In this world nothing is certain but death and taxes.",
+    "author": "Benjamin Franklin",
+    "year": "",
+    "category": ["Accounting", "Tax"]
+  },
+  {
+    "quote": "The hardest thing in the world to understand is the income tax.",
+    "author": "Albert Einstein",
+    "year": "",
+    "category": ["Accounting", "Tax"]
+  },
+  {
+    "quote": "The difference between death and taxes is death doesn't get worse every time congress meets.",
+    "author": "Will Rogers",
+    "year": "",
+    "category": ["Accounting", "Tax"]
   }
 ]
